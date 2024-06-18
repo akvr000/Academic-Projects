@@ -1,0 +1,144 @@
+* {
+    box-sizing: content-box;
+    margin: auto;
+    padding: 0%;
+}
+
+body {
+    background-color: rgb(236, 232, 232);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#mainbox {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 22px;
+    width: 440px;
+    height: 510px;
+    background-color: white;
+    border-radius: 6px;
+    margin-top: 60px;
+    margin-left: 30%;
+}
+
+#mainbox img {
+    margin-top: 12px;
+    margin-bottom: 12px;
+    margin-left: 60px;
+
+}
+
+input[type="text"],
+input[type="password"],
+input[type="submit"] {
+    padding-left: 12px;
+    margin-top: 5px;
+    margin-bottom: 8px;
+    width: 97%;
+    height: 55px;
+    font-size: 22px;
+    border-radius: 6px;
+    border: 1px solid darkgrey;
+    background-color: whitesmoke;
+
+}
+
+input[type="submit"] {
+    background-color: #93cbff;
+    border: none;
+    color: white;
+    border-radius: 6px;
+    font-size: 25px;
+    cursor: pointer;
+    padding: 6px;
+
+}
+
+
+#box1 {
+    margin-bottom: -5px;
+    margin-top: 28px;
+    display: flex;
+    color: lightgray;
+}
+
+.box2 {
+    margin-top: 14px;
+    border: 0px solid black;
+    height: 40px;
+    display: inline-block;
+    width: 40%
+}
+
+.or {
+    font-size: larger;
+    margin: 0px;
+    padding: 6px;
+    display: inline-block;
+}
+
+#box3 {
+    padding-top: 0px;
+    padding-left: 36px;
+    padding-right: 89px;
+    /* border: 1px solid black; */
+    display: flex;
+    text-align: center;
+}
+
+#box3 div {
+    margin-left: 37px;
+    margin-right: -44px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    /* border: 1px solid black; */
+    text-align: center;
+}
+
+#box3 img {
+    margin: 0px;
+    margin-top: 0px;
+    margin-bottom: 12px;
+    margin-left: 40px;
+    padding: 2px;
+    float: left;
+    height: 20px;
+    width: 18px;
+}
+
+#box3 #login {
+    /* border: 1px solid darkgrey; */
+    text-decoration: none;
+    margin: 5px;
+    size: 16px;
+    color: #385185;
+    font-weight: normal;
+    font-size: larger;
+}
+
+#box3 #forg_pass {
+
+    /* border: 1px solid darkgrey; */
+    text-decoration: none;
+    size: 16px;
+    color: #385185;
+    font-weight: normal;
+    font-size: larger;
+}
+
+#mainbox2 {
+    text-align: center;
+    padding: 34px;
+    padding-top: 30px;
+    margin-left: 30%;
+    width: 453px;
+    height: 25px;
+    background-color: white;
+    border-radius: 6px;
+    font-size: larger;
+}
+
+#mainbox2 a {
+    color: #0095f6;
+    text-decoration: none;
+}

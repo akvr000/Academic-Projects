@@ -1,0 +1,43 @@
+Documentation: e-Commerce Company Website -- By Anjali
+
+1. Introduction:
+The e-Commerce Company Website is designed to provide customers with a platform to view available items,
+ register as sellers, and provide feedback. This documentation outlines the structure and features of the 
+ four web pages developed for the website.
+
+2. Pages Overview:
+
+Home Page: Welcomes customers to the website with a brief message from the e-commerce company.
+Items Page: Displays information about all the items being sold using a table format.
+Seller Registration Form Page: Allows sellers to register by filling out a form with 
+necessary details and submitting it.
+Feedback Page: Provides customers with a form to submit feedback about the website.
+
+3. Structure:
+Each web page consists of three main divisions:
+
+Header: Displays the name and logo of the e-commerce company with a distinct background color.
+PageList: Contains links to all web pages (Home, Items, Seller Registration Form, Feedback).
+Content: Displays specific content based on the page type.
+
+4. Implementation:
+
+HTML Structure: Utilizes HTML5 for the structure of each web page, including header, navigation, 
+and content sections.CSS Styling: Applies CSS for styling the header, page list, and content divisions 
+to ensure consistency and visual appeal.
+JavaScript Validation: Implements JavaScript code on the Seller Registration Form page to
+verify that all fields are filled before submission.
+
+5. Page Specifics:
+
+Home Page: Welcomes customers and sets the tone for their browsing experience.
+Items Page: Presents item information in a clear and organized manner through a table format.
+Seller Registration Form Page: Offers a user-friendly form for sellers to register, enhancing
+accessibility and convenience.Feedback Page: Provides customers with an easy way to share their 
+thoughts and suggestions, promoting engagement and interaction.
+
+6. Conclusion:
+The e-Commerce Company Website aims to provide customers with a seamless browsing experience while
+offering sellers a platform to showcase their products. By following a structured layout and 
+implementing user-friendly features, the website enhances usability and fosters positive engagement.
+
