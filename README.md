@@ -139,6 +139,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-Name: Anjali
-Email: your-email@example.com
-GitHub: your-username
+- Name: Anjali
+- Email: akvr000@gmail.com
+- GitHub: https://github.com/akvr000
