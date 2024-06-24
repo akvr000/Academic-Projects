@@ -2,18 +2,34 @@
 Welcome to my GitHub repository! 😊 Here you'll find a collection of my projects, each showcasing different skills and technologies.
 
 ## Table of Contents
-1. SimpleNotepad
-2. SimpleMP3Player
-3. MyCalculator
-4. VoiceRecognition
-5. FaceRecognition
-6. VideoRecognition
-7. Calculator
-8. FamilyPhotos
-9. LoginPages
-10. ECommerceWebsite
-11. lincense 
-12. Contact
+1. Arduino
+2. simpleNotepad
+3. SimpleMP3Player
+4. MyCalculator
+5. VoiceRecognition
+6. FaceRecognition
+7. VideoRecognition
+8. Calculator
+9. FamilyPhotos
+10. LoginPages
+11. ECommerceWebsite
+12. lincense 
+13. Contact
+
+## Arduino
+### Flame Detector
+- Developed a fire detection system using Arduino, IR sensor, and LED.
+- Implemented real-time monitoring and alert mechanism for safety purposes.
+
+### Pulse Sensor
+- Created a heart rate monitoring application using Arduino and pulse sensor.
+- Processed bio-signals to calculate and display beats per minute (BPM) on a Serial Monitor.
+
+### Social Distance Detector
+- Designed a social distancing alert system using Arduino and ultrasonic sensors.
+- Configured alerts LED to ensure safe distancing.
+
+
 
 ## SimpleNotepad
 Language: Java (Swing)
