@@ -10,11 +10,12 @@ Welcome to my GitHub repository! 😊 Here you'll find a collection of my projec
 6. FaceRecognition
 7. VideoRecognition
 8. Calculator
-9. FamilyPhotos
-10. LoginPages
-11. ECommerceWebsite
-12. lincense 
-13. Contact
+9. Currency Convertor
+10. FamilyPhotos
+11. LoginPages
+12. ECommerceWebsite
+13. lincense 
+14. Contact
 
 ## Arduino
 ### Flame Detector
@@ -30,19 +31,22 @@ Welcome to my GitHub repository! 😊 Here you'll find a collection of my projec
 - Configured alerts LED to ensure safe distancing.
 
 
-
 ## SimpleNotepad
 Language: Java (Swing)
 
 ### Description:
-SimpleNotepad is a basic text editor application. It allows users to create, open, edit, and save text files with a simple and user-friendly interface.
+SimpleNotepad is a basic text editor application. It allows users to create, open, save, save as, print, edit, format, and view text files with a simple and user-friendly interface.
 
 ### Functionality:
 
 - Create new text files
 - Open existing text files
-- Edit text
-- Save text files
+- Print, Save and Save as text files
+- Edit text like copy, cut, undo and date/time
+- Format text files like Word wrap and Font 
+- View text file in Dark theme,
+- Zoom in and out, Shows Status
+- Suppoert shortcut keys, Recent Files  option
 
 ## SimpleMP3Player
 Language: Java (Swing)
@@ -60,14 +64,14 @@ SimpleMP3Player is a simple MP3 player application. It provides basic controls t
 Language: Java (Swing)
 
 ### Description:
-MyCalculator is a basic calculator application that supports simple arithmetic operations. It features a clean and straightforward user interface.
+MyCalculator is a basic calculator application that supports basic arithmetic operations, memory functions, and special functions to enhance the user's computational experience with clean features and straightforward user interface.
 
 ### Functionality:
 
-- Perform addition
-- Perform subtraction
-- Perform multiplication
-- Perform division
+- Perform addition, subtraction, multiplication and division
+- Allows you to calculate Square root, percentage and reciprocal of a number
+- it's Memory functions allows you to Add (M+), Store (MS), clear (MC) and Recall (MR) the number in memory
+- Provides basic functions like backspace, C (Clear), and CE (Clear Entry)
 
 ## VoiceRecognition
 Language: Python (OpenCV)
