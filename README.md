@@ -1,5 +1,5 @@
 # Anjali's Projects
-Welcome to my GitHub repository! 😊 Here you'll find a collection of my projects, each showcasing different skills and technologies.
+Welcome to my GitHub repository! 😊 Here you'll find a curated collection of my projects, each showcasing a range of skills and technologies.
 
 ## Table of Contents
 1. Arduino
@@ -19,16 +19,16 @@ Welcome to my GitHub repository! 😊 Here you'll find a collection of my projec
 
 ## Arduino
 ### Flame Detector
-- Developed a fire detection system using Arduino, IR sensor, and LED.
-- Implemented real-time monitoring and alert mechanism for safety purposes.
+-Developed a fire detection system using Arduino, IR sensor, and LED.
+- Implemented real-time monitoring and alert mechanisms for safety purposes.
 
 ### Pulse Sensor
-- Created a heart rate monitoring application using Arduino and pulse sensor.
+- Created a heart rate monitoring application using Arduino and a pulse sensor.
 - Processed bio-signals to calculate and display beats per minute (BPM) on a Serial Monitor.
 
 ### Social Distance Detector
 - Designed a social distancing alert system using Arduino and ultrasonic sensors.
-- Configured alerts LED to ensure safe distancing.
+- Configured LED alerts to ensure safe distancing.
 
 
 ## SimpleNotepad
@@ -39,14 +39,12 @@ SimpleNotepad is a basic text editor application. It allows users to create, ope
 
 ### Functionality:
 
-- Create new text files
-- Open existing text files
-- Print, Save and Save as text files
-- Edit text like copy, cut, undo and date/time
-- Format text files like Word wrap and Font 
-- View text file in Dark theme,
-- Zoom in and out, Shows Status
-- Suppoert shortcut keys, Recent Files  option
+- File Operations: Create, open, save, save as, and print text files.
+- Editing Tools: Copy, cut, undo, and insert date/time.
+- Text Formatting: Word wrap and font customization.
+- View Options: Dark theme, zoom in/out, and status display.
+- User Convenience: Shortcut keys and recent files option for quick access
+
 
 ## SimpleMP3Player
 Language: Java (Swing)
@@ -64,14 +62,14 @@ SimpleMP3Player is a simple MP3 player application. It provides basic controls t
 Language: Java (Swing)
 
 ### Description:
-MyCalculator is a basic calculator application that supports basic arithmetic operations, memory functions, and special functions to enhance the user's computational experience with clean features and straightforward user interface.
+MyCalculator is a basic calculator application supporting arithmetic operations, memory functions, and special functions to enhance the user's computational experience with a clean interface.
 
 ### Functionality:
 
-- Perform addition, subtraction, multiplication and division
-- Allows you to calculate Square root, percentage and reciprocal of a number
-- it's Memory functions allows you to Add (M+), Store (MS), clear (MC) and Recall (MR) the number in memory
-- Provides basic functions like backspace, C (Clear), and CE (Clear Entry)
+- Perform addition, subtraction, multiplication, and division.
+- Calculate square root, percentage, and reciprocal of a number.
+- Memory functions: Add (M+), Store (MS), Clear (MC), and Recall (MR).
+- Basic functions: backspace, Clear (C), and Clear Entry (CE).
 
 ## VoiceRecognition
 Language: Python (OpenCV)
