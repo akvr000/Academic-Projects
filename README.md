@@ -1,8 +1,8 @@
-# Anjali's Projects
+# Anjali's Academic Projects
 Welcome to my GitHub repository! 😊 Here you'll find a curated collection of my projects, each showcasing a range of skills and technologies.
 
 ## Table of Contents
-1. Arduino
+1. [Arduino](#Arduino)
 2. simpleNotepad
 3. SimpleMP3Player
 4. MyCalculator
