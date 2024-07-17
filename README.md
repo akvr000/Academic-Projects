@@ -3,19 +3,19 @@ Welcome to my GitHub repository! 😊 Here you'll find a curated collection of m
 
 ## Table of Contents
 1. [Arduino](#Arduino)
-2. simpleNotepad
-3. SimpleMP3Player
-4. MyCalculator
-5. VoiceRecognition
-6. FaceRecognition
-7. VideoRecognition
-8. Calculator
-9. Currency Convertor
-10. FamilyPhotos
-11. LoginPages
-12. ECommerceWebsite
-13. lincense 
-14. Contact
+2. [simpleNotepad](#simpleNotepad)
+3. [SimpleMP3Player](#SimpleMP3Player)
+4. [MyCalculator](#MyCalculator)
+5. [VoiceRecognition](#VoiceRecognition)
+6. [FaceRecognition](#FaceRecognition)
+7. [VideoRecognition](#VideoRecognition)
+8. [Calculator](#Calculator)
+9. [Currency Convertor](#CurrencyConvertor)
+10. [FamilyPhotos](#FamilyPhotos)
+11. [LoginPages](#LoginPages)
+12. [ECommerceWebsite](#ECommerceWebsite)
+13. [lincense](#lincense) 
+14. [Contact](#Contact)
 
 ## Arduino
 ### Flame Detector
