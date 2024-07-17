@@ -1,4 +1,4 @@
-# Anjali's Academic Projects
+# Academic Projects
 Welcome to my GitHub repository! 😊 Here you'll find a curated collection of my projects, each showcasing a range of skills and technologies.
 
 ## Table of Contents
@@ -158,6 +158,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-- Name: Anjali
+- Name: akvr
 - Email: akvr000@gmail.com
 - GitHub: https://github.com/akvr000
