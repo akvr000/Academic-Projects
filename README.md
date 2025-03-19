@@ -157,6 +157,4 @@ ECommerceWebsite is a simple e-commerce website built to demonstrate basic funct
 This project is licensed under the MIT License.
 
 ## Contact
-
-- Name: akvr
 - GitHub: https://github.com/akvr000
