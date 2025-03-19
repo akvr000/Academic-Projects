@@ -159,5 +159,4 @@ This project is licensed under the MIT License.
 ## Contact
 
 - Name: akvr
-- Email: akvr000@gmail.com
 - GitHub: https://github.com/akvr000
